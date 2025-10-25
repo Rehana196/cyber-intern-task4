@@ -43,7 +43,7 @@ The core of the task was to create a new rule to block Telnet traffic.
     4.  *Profile:* I left all three profiles (*Domain, **Private, **Public*) checked. This is crucial as it ensures the block is active regardless of the network type the computer is connected to (e.g., corporate          domain, home private network, or public Wi-Fi).
     <img width="1260" height="759" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/a2c1ca5e-9e11-4226-8784-b6a835d150da" />
 
-    5.  *Name:* I named the rule Task 4 - Block Telnet (Port 23) and added a description. A clear name is essential for future auditing and management.
+    5.  *Name:* I named the rule Block Telnet (Port 23) and added a description. A clear name is essential for future auditing and management.
   
 ### 5. Add Rule to Allow SSH (Linux)
 
